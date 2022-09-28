@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Open+Sans:wght@300;400&display=swap');
+</style>
+
+.foto1{
+
+width:50vh ;
+    border: solid rgb(31, 130, 229);
+    height: 50vh;
+}
+p{
+
+font-size: 20px;
+    font-family: ont-family: 'Lato', sans-serif;;
+}
